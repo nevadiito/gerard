@@ -12,6 +12,7 @@ public class Basic2 {
         System.out.println("Introduce el numero 1 si deseas multiplicar  // Introduce el numero 2 si deseas sumarlos");
         int introduce = in.nextInt();
 
+
         int resultado =0;
 
         if(introduce == 2){
